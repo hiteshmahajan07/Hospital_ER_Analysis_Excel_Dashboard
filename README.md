@@ -41,11 +41,7 @@ This dashboard helps healthcare stakeholders monitor key KPIs, identify delays, 
 * Measured operational efficiency using wait-time performance
 * Identified departments with the highest patient referrals
 
-📂 Project Files
 
-ER_Dashboard.xlsx – Final Excel dashboard with KPIs and charts
-END TO END DASHBOARD PROJECT IN EXCEL.pptx – Project workflow and explanation
 
 👤 Author
-
 Hitesh Mahajan

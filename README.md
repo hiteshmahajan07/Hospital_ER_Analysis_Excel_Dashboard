@@ -14,12 +14,12 @@ This dashboard helps healthcare stakeholders monitor key KPIs, identify delays, 
 
 🛠 Skills & Tools Used
 
-# Microsoft Excel
-# Data Cleaning & Data Preparation
-# Pivot Tables & Pivot Chart
-# KPI Development
-# Dashboard Design
-# Healthcare Data Analysis
+* Microsoft Excel
+* Data Cleaning & Data Preparation
+* Pivot Tables & Pivot Chart
+* KPI Development
+* Dashboard Design
+* Healthcare Data Analysis
 
 📊 Key KPIs & Metrics
 * Patient Admission Status (Admitted vs Not Admitted)
@@ -30,9 +30,9 @@ This dashboard helps healthcare stakeholders monitor key KPIs, identify delays, 
 
 📈 Dashboard Features
 
-# Interactive Excel dashboard with dynamic charts
-# Clear KPI visualization for quick insights
-# User-friendly layout suitable for non-technical stakeholders
+* Interactive Excel dashboard with dynamic charts
+* Clear KPI visualization for quick insights
+* User-friendly layout suitable for non-technical stakeholders
 
 🔍 Key Insights Delivered
 
